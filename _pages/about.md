@@ -17,9 +17,19 @@ redirect_from:
 
 Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+#### Cross-Domain Feature Transfer for Crop Pest Recognition  
+*National Innovation and Entrepreneurship Training Program | Technical Lead | Jan 2023 – Present*  
+- Improved **ConvNeXt V2** by integrating self-attention mechanisms, achieving **92.3% accuracy** on cross-domain datasets.  
+- Designed a feature alignment module to reduce domain shift, improving model generalization by **15%**.  
+- Led paper experiments and drafted a manuscript (under review at *IEEE Access*).  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+#### AgriGuard – AI-Driven Pest Detection for Agricultural Innovation  
+*China International College Innovation Competition | Project Leader | Nov 2023*  
+- Developed an end-to-end pest detection system using **YOLOv8** and **Swin Transformers**, achieving **89.7% mAP**.  
+- Optimized model inference speed by **40%** through quantization and pruning techniques.  
+- Coordinated cross-functional teams (technical, business, design) and drafted commercialization plans.  
+
+---
 
 Getting started
 ======
