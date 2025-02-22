@@ -17,18 +17,18 @@ redirect_from:
 
 Research Experience
 ======
-#### China Student Innovation and Entrepreneurship Training Programme  
-*First Author | First Author | Jan 2023 – Present*  
+## China Student Innovation and Entrepreneurship Training Programme  
+First Author | First Author | Jan 2023 – Present
 - Paper in Submission
   
-#### AI for Science  
-*KDD2025 | Second Author | Feb 2025*  
+## AI for Science  
+KDD2025 | Second Author | Feb 2025  
 - Paper in Submission
   
 
 ---
 
-Getting started
+Competitions
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
