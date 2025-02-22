@@ -18,7 +18,7 @@ redirect_from:
 Research Experience
 ======
 ### China Student Innovation and Entrepreneurship Training Programme  
-First Author | First Author | Jan 2023 – Present
+Chinese Core | First Author | Jan 2023 – Present
 - Paper in Submission
   
 ### AI for Science  
