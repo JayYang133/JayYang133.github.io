@@ -18,14 +18,13 @@ redirect_from:
 Research Experience
 ======
 ### China Student Innovation and Entrepreneurship Training Programme  
-Chinese Core | First Author | Jan 2023 – Present
+Computer Application Research(Chinese Core) | First Author | Jan 2023 – Present
 - Paper in Submission
   
 ### AI for Science  
 KDD2025 | Second Author | Feb 2025  
 - Paper in Submission
   
-
 ---
 
 Competitions
