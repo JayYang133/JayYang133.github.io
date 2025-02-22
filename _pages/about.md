@@ -30,12 +30,33 @@ KDD2025 | Second Author | Feb 2025
 
 Competitions
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+#### Mathematical Modeling Contest in China (Guangdong Division)  
+*Provincial Second Prize | Team Member | Sep 2023*  
+- **Project**: *Automated Pricing and Replenishment Decision-Making for Vegetable Products*  
+- Built dynamic pricing models using **time series analysis** and **LSTM networks**, optimizing profit by **18%**.  
+- Developed Python-based simulations for inventory replenishment under supply-demand constraints.  
+
+#### Mathematical Contest in Modeling (MCM)  
+*Honorable Mention | Model Developer | Feb 2024*  
+- **Project**: *Momentum-Based Analysis of Sports Dynamics*  
+- Designed **Markov Chain** and **CNN-LSTM hybrid models** to predict gameplay trends (R²=0.87).  
+- Visualized results using Python’s Matplotlib and Plotly for intuitive strategy insights.  
+
+#### Lanqiao Cup Programming Contest  
+*Third Prize (Provincial) | Individual Participant | Mar 2024*  
+- Solved complex algorithmic problems using **dynamic programming** and **graph theory** in C++.  
+
+#### National Mathematical Modeling Contest (Guangdong Division)  
+*Provincial Second Prize | Team Member | Sep 2024*  
+- **Project**: *Path Optimization and Speed Control for "Bench Dragon" Performances*  
+- Developed optimization algorithms for path planning and speed control, reducing performance time by **12%**.  
+- Created interactive visualizations to demonstrate results.  
+
+#### FLTRP Cup English Writing Competition  
+*First Prize (University Level) | Individual Participant | Dec 2023*  
+- Authored an essay on AI ethics, showcasing strong analytical and writing skills.  
+
+---
 
 Site-wide configuration
 ------
