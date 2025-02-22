@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **South China Normal University** (Bachelor of Engineering)  
-*Artificial Intelligence* | GPA: **3.92/4.0** | Rank: **1/98**  
+*Artificial Intelligence* | GPA: **3.92/5.0** | Rank: **1/98**  
 *Sep 2022 – Jun 2026*  
 **Honors**:  
 - First-Class Scholarship  
@@ -17,17 +17,14 @@ redirect_from:
 
 Research Experience
 ======
-#### Cross-Domain Feature Transfer for Crop Pest Recognition  
-*National Innovation and Entrepreneurship Training Program | Technical Lead | Jan 2023 – Present*  
-- Improved **ConvNeXt V2** by integrating self-attention mechanisms, achieving **92.3% accuracy** on cross-domain datasets.  
-- Designed a feature alignment module to reduce domain shift, improving model generalization by **15%**.  
-- Led paper experiments and drafted a manuscript (under review at *IEEE Access*).  
-
-#### AgriGuard – AI-Driven Pest Detection for Agricultural Innovation  
-*China International College Innovation Competition | Project Leader | Nov 2023*  
-- Developed an end-to-end pest detection system using **YOLOv8** and **Swin Transformers**, achieving **89.7% mAP**.  
-- Optimized model inference speed by **40%** through quantization and pruning techniques.  
-- Coordinated cross-functional teams (technical, business, design) and drafted commercialization plans.  
+#### China Student Innovation and Entrepreneurship Training Programme  
+*First Author | First Author | Jan 2023 – Present*  
+- Paper in Submission
+  
+#### AI for Science  
+*KDD2025 | Second Author | Feb 2025*  
+- Paper in Submission
+  
 
 ---
 
