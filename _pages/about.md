@@ -29,7 +29,7 @@ I am an undergraduate student at the School of Artificial Intelligence at South 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/ESCFD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis]
+ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis
 
 Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei Chen 
 
