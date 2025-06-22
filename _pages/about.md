@@ -26,7 +26,7 @@ I am an undergraduate student at the School of Artificial Intelligence at South 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESCFD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis]
