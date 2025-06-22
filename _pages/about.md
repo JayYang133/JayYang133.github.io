@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at the School of Artificial Intelligence at South China Normal University. My research interests focus on large language models (LLMs), multimodal large language models (MM-LLMs), and diffusion models.
+I am an undergraduate student at the School of Artificial Intelligence at South China Normal University. My research interests focus on Large Language Models (LLMs), Multimodal Large Language Models (MM-LLMs), and Diffusion Models.
 
 
 # 🔥 News
