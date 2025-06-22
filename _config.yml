@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jihua Yang"
-#description              : "Undergraduate student at South China Normal University "
+description              : "Undergraduate student at South China Normal University "
 repository               : "JayYang133/jayyang133.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jihua Yang"
   avatar           : "images/photo.jpg"
-  bio              : "Undergraduate student at South China Normal University"
+  bio              : #"Undergraduate student at South China Normal University"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
