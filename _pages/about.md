@@ -33,7 +33,7 @@ I am an undergraduate student at the School of Artificial Intelligence at South 
 
 Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei Chen 
 
-[**Code**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/JayYang133/ESCFD)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**]([https://github.com/JayYang133/ESCFD]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel and efficient single-cell RNA sequencing flow diffusion (ESCFD) method based on a diffusion model, which can synthesize large-scale high-quality scRNA-seq samples within a single framework and generate “holistic” or specific cell subpopulations. 
 </div>
 </div>
