@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jihua Yang"
-  avatar           : "images/photo_new.jpg"
+  avatar           : "images/photo.jpg"
   bio              : "Undergraduate student at South China Normal University"
   location         : "Guangzhou, China"
   employer         :
