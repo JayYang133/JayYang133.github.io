@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jihua Yang"
-description              : "Undergraduate student at South China Normal University "
+#description              : "Undergraduate student at South China Normal University "
 repository               : "JayYang133/jayyang133.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jihua Yang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "South China Normal University"
+  avatar           : "images/photo_new.jpg"
+  bio              : "Undergraduate student at South China Normal University"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
-  openreview       : "https://openreview.net/profile?id=%7EJihua_Yang2"
+  openreview       : # "https://openreview.net/profile?id=%7EJihua_Yang2"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
