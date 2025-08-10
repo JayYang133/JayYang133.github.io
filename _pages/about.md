@@ -40,11 +40,11 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* National College Students Software Innovation Competition, Second Prize.
-- *2025.06* Guangdong Province Lanqiao Cup Digital Technology Innovation Competition, First Prize. 
-- *2025.05* Guangdong Provincial Blue Bridge Cup Software Competition, First Prize.
-- *2025.06* China Robotics and Artificial Intelligence Competition(Guangdong), Second Prize.
-- *2024.10* Guangdong Provincial College Students Mathematical Modelling Competition, Second Prize
+- *2025.08* China Robotics and Artificial Intelligence Competition, National Second Prize.
+- *2025.07* Lanqiao Cup Digital Technology Innovation Competition, National Second Prize. 
+- *2025.05* National College Students Software Innovation Competition, National Second Prize.
+- *2025.05* Guangdong Provincial Blue Bridge Cup Software Competition, Provincial First Prize.
+- *2024.10* Guangdong Provincial College Students Mathematical Modelling Competition,  Provincial Second Prize
 - *2024.05* American College Students Mathematical Modelling Competition, Honorable mention.
 - *2025.03* The First Prize Scholarship.
 - *2025.05* Zheng Geru Scholarship Second Prize.
