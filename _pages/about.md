@@ -34,6 +34,7 @@ ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Ce
 Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei Chen 
 
 [**Code**](https://github.com/JayYang133/ESCFD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3711896.3736942) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel and efficient single-cell RNA sequencing flow diffusion (ESCFD) method based on a diffusion model, which can synthesize large-scale high-quality scRNA-seq samples within a single framework and generate “holistic” or specific cell subpopulations. 
 </div>
 </div>
