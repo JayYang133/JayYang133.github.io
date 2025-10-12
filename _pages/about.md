@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at the School of Artificial Intelligence at South China Normal University. My research interests focus on Large Language Models (LLMs), Multimodal Large Language Models (MM-LLMs), and Diffusion Models.
-
+I am an undergraduate student at the School of Artificial Intelligence, South China Normal University. My research interests primarily focus on large-scale language models (LLMs), spatio-temporal data, and data mining.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis was accepted by KDD 2025. 
@@ -40,16 +39,15 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.10* The National Scholarship
 - *2025.08* China Robotics and Artificial Intelligence Competition, National Second Prize.
 - *2025.07* Lanqiao Cup Digital Technology Innovation Competition, National Second Prize. 
 - *2025.05* National College Students Software Innovation Competition, National Second Prize.
-- *2025.05* Guangdong Provincial Blue Bridge Cup Software Competition, Provincial First Prize.
-- *2024.10* Guangdong Provincial College Students Mathematical Modelling Competition,  Provincial Second Prize
-- *2024.05* American College Students Mathematical Modelling Competition, Honorable mention.
 - *2025.03* The First Prize Scholarship.
 - *2025.05* Zheng Geru Scholarship Second Prize.
 
 # 📖 Educations
+- *2026.09 - , Zhejiang University.
 - *2022.09 - 2026.07 (now)*, South China Normal University. Supervisor: Prof. [Shuangyin Li](http://www.shuangyinli.cn/).
 
 <!-- # 💬 Invited Talks --> 
