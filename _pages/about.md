@@ -39,7 +39,7 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
 </div>
 
 # 🎖 Honors and Awards
-- *2025.10* The National Scholarship
+- *2025.10* The National Scholarship(Top 0.2% in China)
 - *2025.08* China Robotics and Artificial Intelligence Competition, National Second Prize.
 - *2025.07* Lanqiao Cup Digital Technology Innovation Competition, National Second Prize. 
 - *2025.05* National College Students Software Innovation Competition, National Second Prize.
