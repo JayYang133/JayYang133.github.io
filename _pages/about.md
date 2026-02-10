@@ -51,5 +51,5 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
 - *2022.09 - 2026.07 (now)*, South China Normal University. Supervisor: Prof. [Shuangyin Li](http://www.shuangyinli.cn/).
 
 <!-- # 💬 Invited Talks --> 
-<!-- # 💻 Internships --> 
+# 💻 Internships
 - *2026.02 - Present* , LLM Algorithm Intern, Baidu, Shenzhen, China.
