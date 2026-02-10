@@ -1,4 +1,4 @@
----
+<img width="216" height="216" alt="image" src="https://github.com/user-attachments/assets/84fa959d-9122-4ff8-a80f-ed533e515e6e" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -52,3 +52,4 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
 
 <!-- # 💬 Invited Talks --> 
 <!-- # 💻 Internships --> 
+- *2026.02 - Present* , LLM Algorithm Intern, Baidu, Shenzhen, China.
