@@ -9,6 +9,67 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Fade-in on scroll */
+  .page__content > h1,
+  .page__content > ul,
+  .page__content > p,
+  .page__content > .paper-box,
+  .page__content > .research-interests,
+  .page__content > .awards-list,
+  .page__content > .timeline {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+  .page__content > h1.is-visible,
+  .page__content > ul.is-visible,
+  .page__content > p.is-visible,
+  .page__content > .paper-box.is-visible,
+  .page__content > .research-interests.is-visible,
+  .page__content > .awards-list.is-visible,
+  .page__content > .timeline.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Profile card entrance */
+  .profile_box {
+    animation: slideInLeft 0.6s ease-out both;
+    animation-delay: 0.2s;
+  }
+  @keyframes slideInLeft {
+    from { opacity: 0; transform: translateX(-20px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+
+  /* Content card entrance */
+  .page__content {
+    animation: fadeInUp 0.5s ease-out both;
+    animation-delay: 0.3s;
+  }
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Selection color */
+  ::selection {
+    background: rgba(37, 99, 235, 0.15);
+    color: #1e293b;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: #f1f5f9; }
+  ::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: #64748b; }
+</style>
+
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -19,5 +80,22 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- Scroll fade-in observer -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+      }
+    });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('.page__content > h1, .page__content > ul, .page__content > p, .page__content > .paper-box, .page__content > .research-interests, .page__content > .awards-list, .page__content > .timeline').forEach(function(el) {
+    observer.observe(el);
+  });
+});
+</script>
 
 <!-- end custom head snippets -->

@@ -57,18 +57,17 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : #f8f9fc;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : #e8ecf1;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
-// $info-color                 : #52adc8;
+$primary-color              : #2563eb;
+$success-color              : #10b981;
+$warning-color              : #f59e0b;
+$danger-color               : #ef4444;
+$info-color                 : #2563eb;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -94,11 +93,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #2563eb;
+$link-color-hover           : #1d4ed8;
+$link-color-visited         : #3b82f6;
+$masthead-link-color        : #2d3436;
+$masthead-link-color-hover  : #2563eb;
 
 
 /*
@@ -150,8 +149,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$box-shadow                 : 0 2px 12px rgba(0, 0, 0, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.3s ease-in-out;
