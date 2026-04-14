@@ -42,7 +42,7 @@ I am an undergraduate student at the School of Artificial Intelligence, South Ch
 </div>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Congratulations to [Jingcheng Liang](https://leo-leung04.github.io/) on having the paper "Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL" accepted to ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 Congratulations to [Jingcheng Liang](https://leo-leung04.github.io/) on having the paper "Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL" accepted to ACL 2026.
 - *2025.05*: &nbsp;🎉🎉 ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis was accepted by KDD 2025.
 
 
