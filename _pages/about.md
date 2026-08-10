@@ -42,7 +42,6 @@ I am an undergraduate student at the School of Artificial Intelligence, South Ch
 </div>
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Congratulations to [Jingcheng Liang](https://leo-leung04.github.io/) on having the paper "Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL" accepted to ACL 2026.
 - *2025.05*: &nbsp;🎉🎉 ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis was accepted by KDD 2025.
 
 
@@ -116,7 +115,7 @@ Shuangyin Li, **Jihua Yang**(Student first author), Yixuan Wang, Shimin Di, Lei 
       <div class="watermark"><img src="images/baidu.png" alt="Baidu" width="70" height="70"></div>
       <div class="timeline-header">
         <h4>Baidu</h4>
-        <span class="timeline-date">2026.02 - Present</span>
+        <span class="timeline-date">2026.02 - 2026.06</span>
       </div>
       <p>LLM Algorithm Intern, Shenzhen, China</p>
     </div>
