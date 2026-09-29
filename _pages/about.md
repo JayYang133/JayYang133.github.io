@@ -43,6 +43,7 @@ I am an undergraduate student at the School of Artificial Intelligence, South Ch
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 ESCFD: Probabilistic Flow Diffusion Model for Accelerated High-Quality Single-Cell RNA-seq Data Synthesis was accepted by KDD 2025.
+- *2026.09*: &nbsp;🎉🎉 REACT: A Lightweight Reliability-Aware Framework for Spatio-Temporal Out-of-Distribution Prediction was accepted by NeurIPS 2026.
 
 
 # 📝 Publications
